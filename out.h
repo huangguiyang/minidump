@@ -4,6 +4,10 @@
  */
 /* $Id$ */
 
+/*
+ * hgy: Modified so it can be complied & run correctly in both minix and 64 bit linux.
+ */
+
 #ifndef __OUT_H_INCLUDED
 #define __OUT_H_INCLUDED
 

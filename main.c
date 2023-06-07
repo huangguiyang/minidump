@@ -112,7 +112,6 @@ static void usage(void)
 {
     puts("minidump [options] input-file");
     puts("  -a\tDump all headers");
-    puts("  -d\tDisassemble");
     puts("  -h\tShow this message");
 }
 
