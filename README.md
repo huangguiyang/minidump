@@ -81,7 +81,3 @@ Symbol:
 
 minidump is free software. See the file LICENSE for copying
 permission.
-
-## Author
-
-guiyang.huangATgmail.com
